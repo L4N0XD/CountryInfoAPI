@@ -42,6 +42,7 @@ Paste command: python CountriesList_Tunts\CountriesList.py
 -- Wait results:--
 
 Command Prompt will be print a list of countries and yours respectives informations
+
 A document containing all needed informations has been created in "Downloads" path. 
 
 
