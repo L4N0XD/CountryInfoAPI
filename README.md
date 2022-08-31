@@ -9,12 +9,16 @@ and create a worksheet containing some countries informations.
 Download Python: https://www.python.org/downloads/release/python-3106/
 Install Python
 
+
 Open CMD
 Paste command: pip install requests
       Press enter
 
 Paste command: pip install xlsxwriter
       Press enter
+
+Clone Directory: 
+Paste command: git clone https://github.com/L4N0XD/CountriesList_Tunts.git
 
 ## How to Use
 
@@ -26,6 +30,11 @@ Open CMD
 Paste command: python "Path" 
 
 ex: python "c:\users\pc\archive.py"
+      Press enter
+      
+##OR 
+CMD
+Paste command: python CountriesList_Tunts\CountriesList.py
       Press enter
 
 -- Wait results:--
