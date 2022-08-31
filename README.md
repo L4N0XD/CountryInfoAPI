@@ -32,8 +32,10 @@ Paste command: python "Path"
 ex: python "c:\users\pc\archive.py"
       Press enter
       
-##OR 
-CMD
+## OR 
+
+Open CMD
+
 Paste command: python CountriesList_Tunts\CountriesList.py
       Press enter
 
