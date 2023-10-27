@@ -12,13 +12,15 @@ Install Python
 
 
 Open CMD
-Paste command: pip install requests
+Paste command: 
       
-      Press enter
+      pip install requests 
+Press enter
 
-Paste command: pip install xlsxwriter
+Paste command: 
       
-      Press enter
+      pip install xlsxwriter
+Press enter
 
 Clone Directory: 
 
@@ -34,17 +36,19 @@ Open CMD
 
 Paste command: python "Path" 
 
-ex: python "c:\users\pc\archive.py"
+ex: 
       
-      Press enter
+      python "c:\users\pc\archive.py"
+Press enter
       
 ## OR 
 
 Open CMD
 
-Paste command: python CountriesList_Tunts\CountriesList.py
+Paste command: 
       
-      Press enter
+     python CountriesList_Tunts\CountriesList.py
+ Press enter
 
 -- Wait results:--
 
