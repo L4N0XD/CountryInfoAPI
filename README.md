@@ -24,7 +24,7 @@ Press enter
 
 Clone Directory: 
 
-Paste command: git clone https://github.com/L4N0XD/CountriesList_Tunts.git
+Paste command: git clone https://github.com/L4N0XD/CountryInfoAPI.git
 
 ## How to Use
 
